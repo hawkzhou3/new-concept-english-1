@@ -16,7 +16,7 @@ We're packing our suitcases.
 We're going to leave tomorrow.
 Tom and I are going to have a holiday.
 - Aren't you lucky!
-- `When you going to have a holiday`, Sam?
+- `When are you going to have a holiday`, Sam?
 - I don't know. I've already had my holiday this year.
 - Where did you go?
 - I stayed at home.
