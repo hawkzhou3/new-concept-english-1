@@ -23,5 +23,6 @@ You need a new car.
 ---
 
 > - `mechanic` 机修工 `mechanical` adj. `mechanism` n.
+> - `finished` 因为后面接辅音，`ed` 不发音
 > - `lamp post` 灯柱 `lamp` 灯 `post` 标杆 `street lamp` 路灯
 > - `Isn't that your car?` `Didn't you have a crash?` 在英语中常用这样一般疑问句的否定形式来表示反问，表达期待、请求或希望得到肯定的答复
