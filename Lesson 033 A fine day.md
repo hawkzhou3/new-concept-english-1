@@ -1,19 +1,15 @@
 ## Lesson 33 A fine day
 
-It it a fine day today. 
-There are some clouds in the sky, but the sun is shining. 
-
-Mr. Jones is with his family. 
-They are walking over the bridge. 
-
-There are some boats on the river.
-Mr. Jones and his wife are looking `at them`. 
-
-Sally is looking at a big ship. 
-The ship is going under the bridge. 
-
-Tim is looking at an aeroplane. 
-The aeroplane is flying over the river.
+- It it a fine day today. 
+- There are some clouds in the sky, but the sun is shining. 
+- Mr. Jones is with his family. 
+- They are walking over the bridge. 
+- There are some boats on the river.
+- Mr. Jones and his wife are looking `at them`. 
+- Sally is looking at a big ship. 
+- The ship is going under the bridge. 
+- Tim is looking at an aeroplane. 
+- The aeroplane is flying over the river.
 
 ---
 
